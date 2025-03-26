@@ -5,7 +5,7 @@
 
 Soy estudiante de 1ª de Desarrollo de Aplicaciones Web.
 
-He trabajado en diferentes sectores pero nunca en la programación, pero es algo que siempre me ha llamado la atención y causado interés.
+He trabajado en diferentes sectores pero nunca en la programación, es algo que siempre me ha llamado la atención y causado interés.
 
 Este año he decidido dar el paso y formarme para poder dedicarme a la programación, y aunque no tenga claro en qué especialidad me quiero desarrollar, voy a hacer lo posible por aprender y averiguarlo.
 
