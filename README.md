@@ -21,7 +21,7 @@ Aunque llevo poco tiempo programando, estos son mis proyectos personales más re
 ### 🏗️ En desarrollo
 - **Comecocos** - Juego desarrollado en Java para jugar en el terminal, el objetivo es conseguir hacerlo con una interfaz.
 
-![Comecocos](image-1.png)
+
 
 - **Gestor de un taller** - Aplicación desarrollada en Java para gestionar un taller, relacionándolo con una base de datos.
 
