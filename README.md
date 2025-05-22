@@ -1,7 +1,6 @@
 # Hola!! mi nombre es Pablo Gargallo 👋
 💻 Desarrollador apasionado por la programación y la tecnología.  
-🎮 Actualmente trabajando en un juego de Comecocos en Java.  
-🚀 Aprendiendo sobre Ciberseguridad, Inteligencia Artificial y Bases de Datos.
+🚀 Aprendiendo sobre Ciberseguridad y Bases de Datos.
 
 Soy estudiante de 1ª de Desarrollo de Aplicaciones Web.
 
