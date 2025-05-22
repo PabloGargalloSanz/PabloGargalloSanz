@@ -9,6 +9,7 @@ He trabajado en diferentes sectores pero nunca en la programación, es algo que 
 
 Este año he decidido dar el paso y formarme para poder dedicarme a la programación, y aunque no tenga claro en qué especialidad me quiero desarrollar, voy a hacer lo posible por aprender y averiguarlo.
 
+Este año he realizado prácticas en CodeArts Solutions, donde participé en el desarrollo de una página web, abarcando tanto el frontend como el backend. Fue una experiencia muy positiva que ha aumentado mi interés por seguir aprendiendo programación.
 
 
 ## 🚀 Proyectos
@@ -16,14 +17,14 @@ Aunque llevo poco tiempo programando, estos son mis proyectos personales más re
 
 ### 📌 Finalizados
 - **Gestor de Restaurante** - Aplicación desarrollada en Java para gestionar la carta y pedidos de un restaurante.
+- **Comecocos** - Juego desarrollado en Java para jugar en el terminal, el objetivo es conseguir hacerlo con una interfaz en un futuro cercano.
+- **Gestor de un taller** - Aplicación desarrollada en Java para gestionar un taller, relacionándolo con una base de datos.
+- **Gestor de un restaurante** - Aplicación desarrollada en Java para gestionar un restaurante, relacionándolo con una base de datos y utilizando una interfaz gráfica.
 
 
 ### 🏗️ En desarrollo
-- **Comecocos** - Juego desarrollado en Java para jugar en el terminal, el objetivo es conseguir hacerlo con una interfaz.
 
-
-
-- **Gestor de un taller** - Aplicación desarrollada en Java para gestionar un taller, relacionándolo con una base de datos.
+- En este momento no estoy involucrado en ningún proyecto activo, aunque tengo en mente desarrollar una aplicación o página web para gestionar el contenido de varios congeladores domésticos.
 
 
 ### 🛠 Herramientas y Lenguajes 
