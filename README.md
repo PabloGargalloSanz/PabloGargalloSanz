@@ -15,14 +15,14 @@ Este año he realizado prácticas en CodeArts Solutions, donde participé en el 
 Aunque llevo poco tiempo programando, estos son mis proyectos personales más relevantes.
 
 ### 📌 Finalizados
-- **Comecocos** - Juego desarrollado en Java para jugar en el terminal, el objetivo es conseguir hacerlo con una interfaz en un futuro cercano.
-- **Gestor de un taller** - Aplicación desarrollada en Java para gestionar un taller, relacionándolo con una base de datos.
-- **Gestor de un Restaurante** - Aplicación desarrollada en Java para gestionar un restaurante, relacionándolo con una base de datos y utilizando una interfaz gráfica.
+- **Comecocos** - Juego desarrollado utilizando Java para jugar en el terminal, el objetivo es conseguir hacerlo con una interfaz en un futuro cercano. Proyecto desarrollado en solitario.
+- **Gestor de un taller** - Aplicación desarrollada en Java para gestionar un taller, relacionándolo con una base de datos. Proyecto desarrollado en grupo.
+- **Gestor de un Restaurante** - Aplicación desarrollada en Java para gestionar un restaurante, relacionándolo con una base de datos y utilizando una interfaz gráfica. Proyecto desarrollado en grupo.
 
 
 ### 🏗️ En desarrollo
 
-- En este momento no estoy involucrado en ningún proyecto activo, aunque tengo en mente desarrollar una aplicación o página web para gestionar el contenido de varios congeladores domésticos.
+- Desarrollando una página web para gestionar el contenido de varios congeladores domésticos.
 
 
 ### 🛠 Herramientas y Lenguajes 
