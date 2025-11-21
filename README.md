@@ -2,13 +2,13 @@
 💻 Desarrollador apasionado por la programación y la tecnología.  
 🚀 Aprendiendo sobre Ciberseguridad y Bases de Datos.
 
-Soy estudiante de 1ª de Desarrollo de Aplicaciones Web.
+Soy estudiante de Grado Superior de Desarrollo de Aplicaciones Web.
 
 He trabajado en diferentes sectores pero nunca en la programación, es algo que siempre me ha llamado la atención y causado interés.
 
-Este año he decidido dar el paso y formarme para poder dedicarme a la programación, y aunque no tenga claro en qué especialidad me quiero desarrollar, voy a hacer lo posible por aprender y averiguarlo.
+Hace poco decidí dar el paso y formarme para poder dedicarme a la programación, y aunque no tenga claro en qué especialidad me quiero desarrollar, voy a hacer lo posible por aprender y averiguarlo.
 
-Este año he realizado prácticas en CodeArts Solutions, donde participé en el desarrollo de una página web, abarcando tanto el frontend como el backend. Fue una experiencia muy positiva que ha aumentado mi interés por seguir aprendiendo programación.
+El año pasado realicé prácticas en CodeArts Solutions, donde participé en el desarrollo de una página web, abarcando tanto el frontend como el backend. Fue una experiencia muy positiva que ha aumentado mi interés por seguir aprendiendo programación.
 
 
 ## 🚀 Proyectos
